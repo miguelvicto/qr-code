@@ -1,0 +1,33 @@
+body {
+background-color:  hsl(212, 45%, 89%);
+}
+.card{
+    height : 55vh;
+    width:55vw;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    position: relative;
+    left: 800px;
+    width: 300px; 
+border-radius: 25px;
+top:25vh;
+background-color:  white ;
+}
+.qr-code{
+height:30vh ;
+width:15vw ;
+position: relative;
+left: 10px;
+top:1vh;
+background-color: rgb(7, 7, 7);
+border-radius: 25px;
+}
+h2{
+text-align: center;
+
+}
+p{
+
+    text-align: center;
+}
